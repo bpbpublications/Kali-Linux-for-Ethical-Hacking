@@ -1,2 +1,2 @@
-# Kali Linux for Ethical Hacker
- Kali Linux for Ethical Hacker, by BPB Publications
+# Kali Linux for Ethical Hacking
+ Kali Linux for Ethical Hacking, by BPB Publications
